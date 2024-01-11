@@ -18,7 +18,7 @@ O gerenciador de pacotes utilizado para esse projeto foi foi o yarn.
 
 Para instalar o yarn clique [aqui](https://classic.yarnpkg.com/en/docs/install)
 
-Com yarn inicializado no projeto vamos instalar as dependências do projeto
+Com yarn instalado na maquina, basta instalar as dependências do projeto
 
 1. Abra o terminal na pasta do projeto e digite:
 
